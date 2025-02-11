@@ -10,5 +10,5 @@ ec2 instace created
 .................
 permissions created
 file created
-hard link and soft link
+
 
