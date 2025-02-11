@@ -24,4 +24,5 @@ git tag
 git tag -d
 git checkout tagname
 git push tagname
+git stash....temporary storage
 
