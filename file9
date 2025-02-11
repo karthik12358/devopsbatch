@@ -1,0 +1,9 @@
+portnumber:10
+portnumber:11
+portnumber:12
+portnumber:13
+portnumber:14
+portnumber:19
+git tag create a tag name
+git tag -d tagnme to delete thedata
+

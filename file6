@@ -1,2 +1,28 @@
 port number ..80
 port number ..90
+git init 
+git add .
+git commit -m
+git push alias name
+git fetch 
+git pull
+git remote -v
+git status
+git config --global user.name
+git config --global email
+git branch
+git checkout branchname
+git branch -d 
+git push jio -d :branchname
+git branch -a
+git branch -r
+git branch -v
+git clean -v
+git clean -f
+git diff
+git tag
+git tag -d
+git checkout tagname
+git push tagname
+git stash....temporary storage
+
