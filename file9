@@ -9,5 +9,9 @@ git tag -d tagnme to delete thedata
 git remote -v
 git clean -f
 git status
+java
+oython
+ansible
+
 
 
