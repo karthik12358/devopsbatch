@@ -15,8 +15,6 @@ oython
 ansible
 linux
 aws
-
-=======
 git tag -d tagnme to delete thedat:a
->>>>>>> Stashed changes
+ Stashed changes
 
