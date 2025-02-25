@@ -1,3 +1,4 @@
+
 port number ..8085
 port number ..90
 git init 
@@ -25,4 +26,9 @@ git tag -d
 git checkout tagname
 git push tagname
 git stash....temporary storage
+port number ..80:
+port number ..90
+
+python.ssh
+java 
 
