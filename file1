@@ -1,6 +1,8 @@
 aws
 devops
 hyd
+<<<<<<< HEAD
+=======
 git completed
 linux completed
 maven completed
@@ -9,4 +11,5 @@ sonar qube completed
 nexus completed
 shell scripting pending my side
 docker will be start
+>>>>>>> prod
 
