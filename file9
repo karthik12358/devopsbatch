@@ -5,6 +5,7 @@ portnumber:13
 portnumber:14
 portnumber:19
 git tag create a tag name
+Updated upstream
 git tag -d tagnme to delete thedata
 git remote -v
 git clean -f
@@ -14,7 +15,4 @@ oython
 ansible
 linux
 aws
-devops
-
-
 
